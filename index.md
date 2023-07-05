@@ -1,6 +1,6 @@
 # 好用的VPN推荐，国内仅2款好用(2023年翻墙避坑)
 
-最近更新：`2023年5月25日`
+最近更新：`2023年6月26日`
 
 >**目前在中国能长期稳定地使用、好用的翻墙VPN很少了，网上的搜索结果中大部分都不是很靠谱，不少VPN测评网站上的推荐名单常年不变，而名单中推荐的部分VPN在国内已经无法使用，有些文章内容则是在网上拼凑的，没有一点时效性**。本文根据我自己的实际使用体验，介绍各款翻墙软件VPN近期使用情况，并不时根据最新的使用情况进行更新，供大家参考和排雷。这篇文章是中国安全翻墙攻略的**详细版**，讨论翻墙软件、科学上网和网络安全的相关问题。如果只想快速选个科学上网软件来翻墙，直接选择下方推荐的2款VPN就行了，不过国内用户使用之前建议要把相关的使用信息看完。
 
@@ -178,7 +178,7 @@ Hi,I live in China,and I can't download *XX* VPN on my iPhone because it was not
 
 ## 1.<a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank"> ExpressVPN – 速度体验最佳</a>
 
->2022年5月使用，确认可用，各平台（包括手机端APP和电脑客户端）的综合体验在我测试使用的几款中表现最好，尤其是LA-5、Marina Bay等线路的速度很快，特别是这款VPN在iPhone上的使用体验在我所测试的这些VPN中表现最好，由于iOS系统的封闭性对有些连接协议不支持，大多数VPN软件在国内的iOS设备上并不好用，**ExpressVPN的iOS版本内置了LightWay（UDP/TCP）和IKEV2协议，LightWay是Express官方在2021年新推出的独家开发的协议，一键连接效果很不错，iPhone用户首选这款**。目前由于国内政策原因，Express的支付宝付款通道被支付宝方面暂停了，可以优先选择国内银行卡、Paypal或带外币功能的信用卡购买。**国庆期间被针对性攻击了一段时间**，Express一直在抗争，但总是恢复几天就断了，目前不知道这波算不算是过去了，不过线路也恢复了一些。
+>2023年使用，确认可用，各平台（包括手机端APP和电脑客户端）的综合体验在我测试使用的几款中表现最好，尤其是LA-5、Marina Bay等线路的速度很快，特别是这款VPN在iPhone上的使用体验在我所测试的这些VPN中表现最好，由于iOS系统的封闭性对有些连接协议不支持，大多数VPN软件在国内的iOS设备上并不好用，**ExpressVPN的iOS版本内置了LightWay（UDP/TCP）和IKEV2协议，LightWay是Express官方在2021年新推出的独家开发的协议，一键连接效果很不错，iPhone用户首选这款**。目前由于国内政策原因，Express的支付宝付款通道被支付宝方面暂停了，可以优先选择国内银行卡、Paypal或带外币功能的信用卡购买。**国庆期间被针对性攻击了一段时间**，Express一直在抗争，但总是恢复几天就断了，目前不知道这波算不算是过去了，不过线路也恢复了一些。
 
 [![ExpressVPN](https://www.safewebcn.com/img/express-logo-2021.png)](https://www.fastvpncn.com/expressvpn)
 
@@ -276,7 +276,7 @@ ExpressVPN并非如很多口是心非的不良厂商，它的无日志政策是�
 
 连接协议可以设置成默认的Automatic，也可以改为Lightway或OpenVPN协议，我一般使用Lightway或OpenVPN。其中Lightway是Expresss官方于2021年新开发的VPN协议，在保证安全性的前提下，在国内的速度和连接成功率更加有改善。Lightway协议目前是Expresss独家开发，比起传统的VPN协议更加具有优势。
 
-除了上面那些优化过的服务器线路，**中国用户也可以尝试改为L2TP或IKEV-2协议连接其它的服务器线路，依然会有部分线路可以连接**，但是其他那些服务器没有经过混淆算法优化，速度和稳定性可能会不如官方推荐的服务器线路，可以作为敏感时期的备用节点。
+除了上面那些优化过的服务器线路，**中国用户也可以尝试改为L2TP或IKEV-2协议连接其它的服务器线路，依然会有部分线路可以连接**，但是其他那些服务器没有经过混淆算法优化，速度和稳定性可能会不如官方推荐的服务器线路，可以作为敏感时期的备用节点。另外，有经验的读者可以采取手动配置或者用机场前置代理的方案，连接的成功率比直接在APP直连更高。
 
 关于使用和更新客户端的问题，请查看本文后面的问题列举。关于更多ExpressVPN的信息，可以查看<a rel="noopener" href="https://www.fastvpncn.com/2021%E5%B9%B4expressvpn%E5%9C%A8%E5%9B%BD%E5%86%85%E4%BD%BF%E7%94%A8%E6%80%8E%E4%B9%88%E6%A0%B7%EF%BC%9F/" target="_blank">ExpressVPN在中国怎么样</a>。
 
@@ -286,7 +286,6 @@ ExpressVPN并非如很多口是心非的不良厂商，它的无日志政策是�
 
 - 客户端：Windows
 - 中国电信网络 无线WiFi
-- 路由器：Netgear R7000
 
 部分测试截图如下：
 [![LA5节点测速](https://www.safewebcn.com/img/ExpressVPN-speedtest-LA5-2022-3.png)](#expressvpn速度测试)
@@ -323,7 +322,7 @@ ExpressVPN的客服是业内最好的之一，随时提供网上帮助。此外�
 
 ExpressVPN支持银联、信用卡、Paypal等多种方式付款。付款后，在手机安装APP客户端请参考：[怎么下载和登录VPN客户端?](#怎么下载和登录vpn客户端)
 
->**2023年最新提示**：ExpressVPN在国内电脑端（Windows/Mac OS）和手机端（iOS/安卓）的APP客户端直接一键连接就行了，不用自己手动配置。是目前国外大牌VPN中最好用的，毕竟现在墙的频繁升级，很多国外VPN商家的中国客户不多，大部分都不会很迅速地针对国内的连接故障快速替换线路IP，这就造成国内长期能连的科学上网VPN寥寥无几。
+>**2023年最新提示**：ExpressVPN在国内电脑端（Windows/Mac OS）和手机端（iOS/安卓）的APP客户端直接一键连接就行了，大部分时间都不用自己手动配置。是目前国外大牌VPN中最好用的，毕竟现在墙的频繁升级，很多国外VPN商家的中国客户不多，大部分都不会很迅速地针对国内的连接故障快速替换线路IP，这就造成国内长期能连的科学上网VPN寥寥无几。
 >
 >ExpressVPN在国内使用的稳定性非常不错，在目前防火长城不断升级的大环境下，能保证95%左右的稳定使用时间，按照过去2年的使用经验，一般间隔2-3个月左右由于墙的例行升级，官方推荐在中国使用的服务器可能会暂时被屏蔽，但改用L2TP或者IKEV协议的其他的有些服务器线路还能连接，而且官方每次的应对很快，2-3个工作日会推出更新版本，更新客户端就可以继续连接推荐的线路了。
 >
@@ -349,7 +348,7 @@ ExpressVPN支持银联、信用卡、Paypal等多种方式付款。付款后，�
 
 [![StrongVPN](https://www.safewebcn.com/img/strong-logo.png)](#2-strongvpn--性价比最佳)
 
->2023年5月使用，确认可用，可连的线路中有些线路网络速度不错，有些线路网络速度就一般，要自己测试，网络环境不同速度也可能不一样。性价比最好，**目前StrongVPN所有套餐的价位应该是大牌VPN里面最便宜的**，目前也有较大的价格优惠。**目前目前国内可以使用官网直接下载安装的通用版客户端**，另外，在敏感时期如果遇到连接不上的情况，Windows、Mac和Android设备用户可以在官网Help页面右下方的帮助聊天框找在线客服(Technical Support)获取特供的精简客户端V1 app，作为备用，这也是尽量避免被墙的策略，因为官方的标准客户端版本大多数时候也能连，但在敏感时期有时会遇到登录或连接问题，需等待版本更新，不过**可以把2个版本客户端都装上，作为备用选择**。另外由于iOS系统的限制，客户端没有备用的iOS的特供版本，只有通用版本，敏感时期遇到连接问题可以联系在线客服获取备用连接方法,iPhone用户建议使用<a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank">ExpressVPN</a>，在iPhone的iOS App版本中ExpressVPN长期的稳定性还是比StrongVPN要强，已经购买StrongVPN的iPhone用户可以找客服获取手动连接线路和方案。**另外如果使用支付宝Aliapy付款，官网直接提交订单到支付宝可能会遇到问题，可以查看下文中的解决方法**。敏感时期有时候会有大封锁，如果有连接问题，可以联系官网的客服提供备用的线路。
+>2023年使用，确认可用，可连的线路中有些线路网络速度不错，有些线路网络速度就一般，要自己测试，网络环境不同速度也可能不一样。性价比最好，**目前StrongVPN所有套餐的价位应该是大牌VPN里面最便宜的**，目前也有较大的价格优惠。**目前目前国内可以使用官网直接下载安装的通用版客户端**，另外，在敏感时期如果遇到连接不上的情况，Windows、Mac和Android设备用户可以在官网Help页面右下方的帮助聊天框找在线客服(Technical Support)获取特供的精简客户端V1 app，作为备用，这也是尽量避免被墙的策略，因为官方的标准客户端版本大多数时候也能连，但在敏感时期有时会遇到登录或连接问题，需等待版本更新，不过**可以把2个版本客户端都装上，作为备用选择**。另外由于iOS系统的限制，客户端没有备用的iOS的特供版本，只有通用版本，敏感时期遇到连接问题可以联系在线客服获取备用连接方法,iPhone用户建议使用<a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank">ExpressVPN</a>，在iPhone的iOS App版本中ExpressVPN长期的稳定性还是比StrongVPN要强，已经购买StrongVPN的iPhone用户可以找客服获取手动连接线路和方案。**另外如果使用支付宝Aliapy付款，官网直接提交订单到支付宝可能会遇到问题，可以查看下文中的解决方法**。敏感时期有时候会有大封锁，如果有连接问题，可以联系官网的客服提供备用的线路。
 
 StrongVPN创办于2005年，是一家美国的老牌VPN服务商，在35个国家的59个城市拥有950+个VPN服务器，以及近60000个IP地址，前文说过，大量的IP地址资源是应对墙的封锁最有效的办法。
 
@@ -361,7 +360,7 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 另外，**如果遇到大封锁时期，发现线路连接不上的情况，要及时联系在线客服获取最新的连接方法，可以中文沟通（对话框有翻译功能）**。点击网站Help页面右下角的帮助按钮弹出对话框，点击Get in touch，然后点击 “Live Chat”，选择“Technical Support”，输入信息开启聊天。
 
->**2022年最新提醒**：目前国内能使用V2版本的客户端，也就是官网用户后台直接下载的通用版客户端，协议选择OpenVPN或者IKEV2，在Win/MacOS/Android/iOS系统客户端都能使用，如有任何问题直接在官网的Help页面的在线窗口询问客服。
+>**最新提醒**：目前国内能使用V2版本的客户端，也就是官网用户后台直接下载的通用版客户端，协议选择OpenVPN或者IKEV2，在Win/MacOS/Android/iOS系统客户端都能使用，如有任何问题直接在官网的Help页面的在线窗口询问客服。
 
 ### 如何打开StrongVPN官网？
 
@@ -425,7 +424,7 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 1.进入<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">StrongVPN官网</a>（右键打开），然后点击“Join Now”按钮，进入选择套餐页面：
 
-[![Strong-device](https://www.safewebcn.com/img/StrongVPN-price-table-2022-1.png)](#如何获取strongvpn)
+[![Strong-device](https://www.safewebcn.com/img/StrongVPN-price-table-2023-07.png)](#如何获取strongvpn)
 
 付款方式支持支付宝Alipay、信用卡和Paypal等，目前有特价活动，进入官网后，拉到页面最下方，在“Interact”栏点击“Coupons“能看到优惠，单月套餐也可以使用。**如果实时的促销优惠大于特价20%的优惠，以实时优惠为准。**（在套餐选择页面的连接里面有“?cpn=...&”这个参数，这是优惠券码，新人优惠码是NEWSTRONG，目前打5折，可以改为“?cpn=NEWSTRONG”或“WELCOMESAFER”）
 
@@ -466,7 +465,7 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 ### 使用建议
 
->**2022年最新提醒**：目前国内能使用V2版本的客户端一键连接，也就是上图中直接下载的通用版客户端，协议选择OpenVPN或者IKEV2，Win/MacOS/Android/iOS系统客户端都能使用，如有任何问题直接在官网的Support页面的在线窗口询问客服。
+>**最新提醒**：目前国内能使用V2版本的客户端一键连接，也就是上图中直接下载的通用版客户端，协议选择OpenVPN或者IKEV2，Win/MacOS/Android/iOS系统客户端都能使用，如有任何问题直接在官网的Support页面的在线窗口询问客服。
 
 #### Windows系统、Mac和安卓手机
 
@@ -500,7 +499,7 @@ Mac精简版<a rel="nofollow noopener" href="https://mirror3.reliablehosting.com
 
 下载安装APP客户端、联系客服开通OpenVPN账户权限后，打开输入用户名密码登录就可以使用了，如果仍有登陆问题，请联系客服说明问题。
 
-在中国使用，**选择国内能连接翻墙的节点的具体方法，可以查看[Strong线路如何选择](#strong线路选择)**。连接协议（Protocol）选择OpenVPN(TCP)，如果连接不畅需要重新安装OpenVPN的TAP驱动，点击客户端界面的Advanced，然后点击options，最后点击左下角的Reinstall TAP Driver。
+在中国使用，选择国内能连接翻墙的节点的具体方法，参考后文的Strong线路如何选择。连接协议（Protocol）选择OpenVPN(TCP)，如果连接不畅需要重新安装OpenVPN的TAP驱动，点击客户端界面的Advanced，然后点击options，最后点击左下角的Reinstall TAP Driver。
 
 StrongVPN专用精简版客户端V1 App：
 
