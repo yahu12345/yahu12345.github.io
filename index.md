@@ -908,4 +908,4 @@ PandaVPN由中文团队开发，所以对中文支持很好，相比其他几家
 
 >如果觉得本文有帮助，欢迎收藏，本文会根据使用体验和测试结果实时更新。
 
->`**Advertiser Disclosure** :We receive referral fees from partners.`
+>`Advertiser Disclosure :We receive referral fees from partners.`
