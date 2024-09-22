@@ -588,11 +588,11 @@ Paypal和信用卡就不用说了，和在其他网站上付款一样，比较�
 
 iPhone手机使用电信WiFi网络连接ExpressVPN的Marina Bay节点，连接界面如下图：
 
-[![连接Marina Bay节点](https://www.linkv.org/img/expressvpn-iphone-speedtest-2024-7-28-min.png)](#expressvpn速度测试)
+[![连接Marina Bay节点](https://www.linkv.org/img/expressvpn-iphone-marina_bay.png)](#expressvpn速度测试)
 
 iPhone手机使用移动网络连接ExpressVPN的Marina Bay节点，使用SpeedTest软件进行在线测速，连接和测速界面如下图：
 
-[![iPhone ExpressVPN节点测速](https://www.linkv.org/img/expressvpn-iphone-speedtest-2022-3.png)](#expressvpn速度测试)
+[![iPhone ExpressVPN节点测速](https://www.linkv.org/img/expressvpn-iphone-speedtest-2024-7-28-min.png)](#expressvpn速度测试)
 
 从上面的测试截图看到，iPhone使用手机移动网络连接Marina Bay节点，测试结果还不错，能跑满我这里的移动4G实际网络带宽，iPhone的日常实际使用体验也在我所现在使用的翻墙软件中属于最好的。
 
