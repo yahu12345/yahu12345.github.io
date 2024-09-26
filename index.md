@@ -300,11 +300,11 @@ iPhone手机使用电信WiFi网络连接ExpressVPN的Marina Bay节点，连接�
 
 [![连接Marina Bay节点](https://www.linkv.org/img/expressvpn-iphone-marina_bay.png)](#expressvpn速度测试)
 
-iPhone手机使用移动4G网络连接ExpressVPN的Marina Bay节点，使用SpeedTest软件进行在线测速，连接和测速界面如下图：
+iPhone手机使用移动网络连接Marina Bay节点，使用SpeedTest软件进行在线测速，连接和测速界面如下图：
 
-[![iPhone ExpressVPN节点测速](https://www.linkv.org/img/expressvpn-iphone-speedtest-2024-7-28-min.png)](#expressvpn速度测试)
+[![iPhone ExpressVPN节点测速](https://www.linkv.org/img/expressvpn-iphone-speedtest-4g-2024-7-28-min.png)](#expressvpn速度测试)
 
-从上面的测试截图看到，iPhone使用移动4G网络连接Marina Bay节点，测试结果还不错，能跑满我这里的移动4G实际网络带宽，iPhone的日常实际使用体验也在我所现在使用的翻墙软件中属于最好的。
+我的iPhone备用机使用移动4G网络连接Marina Bay节点，测试结果也还不错，能几乎跑满我的移动4G网络的实际带宽，iPhone的日常实际使用体验也在我所现在使用的翻墙软件中属于最好的。
 
 总体上来说ExpressVPN是我测试的所有翻墙软件中，在电脑端（Windows、MacBook）和手机端（iPhone、安卓手机）使用体验最好，尤其是网络速度方面。
 
